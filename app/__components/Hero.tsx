@@ -47,7 +47,7 @@ export const Hero = () => {
             <div className="m-auto pt-5 relative w-full max-w-sm" style={{ height: "180px" }}>
                 <Image
                     src="https://innovatech-inc.netlify.app/Profile.png"
-                    alt="Innove-Bunduki"
+                    alt="Innove-Bunduki-profile-picture"
                     fill
                     className="object-contain"
                 />
