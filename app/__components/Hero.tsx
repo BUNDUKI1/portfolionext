@@ -26,7 +26,7 @@ export const Hero = () => {
                     > GHOVODI
                     </Link> && Senior CEO of
                     <Link
-                        href="https://innove.vercel.app"
+                        href="https://innove-bunduki.vercel.app"
                         className={cn(
                             buttonVariants({ variant: "outline" }),
                             "flex-1 pl-2 pr-2 pt-[2] pb-[2] text-teal-600 m-0.5"
@@ -46,7 +46,7 @@ export const Hero = () => {
             </div>
             <div className="m-auto pt-5 relative w-full max-w-sm" style={{ height: "180px" }}>
                 <Image
-                    src="http://localhost/affiliates/assets/uploads/innove.png"
+                    src="https://innovatech-inc.netlify.app/Profile.png"
                     alt="Innove-Bunduki"
                     fill
                     className="object-contain"
