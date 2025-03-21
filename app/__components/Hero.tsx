@@ -11,7 +11,7 @@ export const Hero = () => {
             <div className="flex-[2] mt-5">
                 <h2 className="text-2xl pb-2 mr-2 text-teal-800 max-w-text-center">Innove BUNDUKI</h2>
                 <h4 className="text-1xl text-primary">
-                    Software Engineer and website creator.
+                    Software Engineer and website conceptor.
                     <br /> <br />
                 </h4>
                 <p>

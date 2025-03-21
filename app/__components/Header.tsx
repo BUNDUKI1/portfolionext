@@ -9,14 +9,13 @@ import { WhatsappIcon } from './icons/WhatsappIcon';
 import { TwitterIcon } from './icons/TwitterIcon';
 import { InstagramIcon } from './icons/InstagramIcon';
 import { LinkedinIcon } from './icons/LinkedinIcon';
+import { Logo } from './logo';
 
 export const Header = () => {
   return (
     <header className="sticky top-0 py-2">
       <Section className="flex items-baseline">
-        <h1 style={{cursor:"pointer"}} className="hover:text-cyan-100">
-         <span className='font-bold text-indigo-400 text-xl' translate='no'>Go Innove</span> <strong className='text-orange-300 '>Consulting</strong> 
-        </h1>
+        <Logo />
 
         <div className="flex-1" />
 
