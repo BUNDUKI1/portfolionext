@@ -15,7 +15,7 @@ export const Header = () => {
     <header className="sticky top-0 py-2">
       <Section className="flex items-baseline">
         <h1 style={{cursor:"pointer"}} className="hover:text-cyan-100">
-         <span className='font-bold text-indigo-400 text-xl'>Go Innove</span> <strong className='text-orange-300 '>Consulting</strong> 
+         <span className='font-bold text-indigo-400 text-xl' translate='no'>Go Innove</span> <strong className='text-orange-300 '>Consulting</strong> 
         </h1>
 
         <div className="flex-1" />

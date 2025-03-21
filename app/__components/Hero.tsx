@@ -38,7 +38,7 @@ export const Hero = () => {
 
                 </p>
                 <p className="font-serif italic text-gray-500 text-xs">
-                    Fundig by coding your app is my job. World is either made by tech. Even medecin and laws, tech has it main fate inside a keyboard, a mouse and a PC screen. All behind a man siting on his own forfeit.
+                    Funding by coding your app is my job. World is either made by tech. Even medecin and laws, tech has it main fate inside a keyboard, a mouse and a PC screen. All behind a man siting on his own forfeit.
                 </p>
                 <p className="normal text-xs text-gray-500">
                     My job is to serve world with all thy need, by coding thy website and thy professional Software. Can become too private software manager. Here we are for every need.
