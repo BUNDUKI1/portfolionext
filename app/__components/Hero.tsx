@@ -9,7 +9,7 @@ export const Hero = () => {
     return (
         <Section className="flex max-lg:flex-col items-start">
             <div className="flex-[2] mt-5">
-                <h2 className=" text-2xl pb-2 mr-2 text-teal-800 max-w-text-center">Innove BUNDUKI</h2>
+                <h2 className="text-2xl pb-2 mr-2 text-teal-800 max-w-text-center">Innove BUNDUKI</h2>
                 <h4 className="text-1xl text-primary">
                     Software Engineer and website creator.
                     <br /> <br />
@@ -35,13 +35,12 @@ export const Hero = () => {
                         rel="noopener noreferrer"
                     > <GithubIcon /><span translate="no" className="font-mono text-indigo-400">  Go Innove Consulting</span>
                     </Link>
-
                 </p>
                 <p className="font-serif italic text-gray-500 text-xs">
-                    Funding by coding your app is my job. World is either made by tech. Even medecin and laws, tech has it main fate inside a keyboard, a mouse and a PC screen. All behind a man siting on his own forfeit.
+                    Coding is my job. The world is driven by technology. Even medicine and laws have their main fate inside a keyboard, a mouse, and a PC screen, all controlled by a person sitting alone.
                 </p>
                 <p className="normal text-xs text-gray-500">
-                    My job is to serve world with all thy need, by coding thy website and thy professional Software. Can become too private software manager. Here we are for every need.
+                    My job is to serve the world with all its needs by coding websites and professional software. I can also become a private software manager. Here we are for every need.
                 </p>
             </div>
             <div className="m-auto pt-5 relative w-full max-w-sm" style={{ height: "180px" }}>
