@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 export const Logo = () => {
   return (
     <h1 translate='no' style={{ cursor: "pointer" }} className="hover:text-cyan-100">
