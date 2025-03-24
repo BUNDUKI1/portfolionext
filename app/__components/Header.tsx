@@ -15,7 +15,10 @@ export const Header = () => {
   return (
     <header className="sticky top-0 py-2">
       <Section className="flex items-baseline">
+        
+        <Link href="/" className="hover:text-cyan-100">
         <Logo />
+        </Link>
 
         <div className="flex-1" />
 
