@@ -24,7 +24,7 @@ export const Hero = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                     > GHOVODI
-                    </Link> && Senior CEO of
+                    </Link> &&  
                     <Link
                         href="https://innove-bunduki.vercel.app"
                         className={cn(
@@ -35,6 +35,7 @@ export const Hero = () => {
                         rel="noopener noreferrer"
                     > <GithubIcon /><span translate="no" className="font-mono text-indigo-400">  Go Innove Consulting</span>
                     </Link>
+                    Founder & CEO
                 </p>
                 <p className="font-serif italic text-gray-500 text-xs">
                     Coding is my job. The world is driven by technology. Even medicine and laws have their main fate inside a keyboard, a mouse, and a PC screen, all controlled by a person sitting alone.
